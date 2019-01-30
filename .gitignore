@@ -1,0 +1,8 @@
+  # исключаем всё
+*
+  # кроме 
+!/.git/
+!.gitignore
+!composer.json
+!README.md
+!TelphinFunctions.php
