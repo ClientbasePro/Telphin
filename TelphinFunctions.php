@@ -4,8 +4,6 @@
   // https://ClientbasePro.ru
   // https://ringme-confluence.atlassian.net/wiki/spaces/RAPD/overview
   
-require_once 'common.php'; 
-
     // функция возвращает токен для авторизации в Телфин
 function GetTelphinToken() {
   $now = date("Y-m-d H:i:s");
